@@ -4,9 +4,9 @@ Default setup voor mijn webdev omgeving.
 ## Setup
 ### 1. Install brew (https://brew.sh)
 
-'''
+```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-'''
+```
 
 #### Programma's installeren
 - brew install sass/sass/sass
