@@ -1,0 +1,1 @@
+#!/bin/sh <br>brew cask install iterm2 <br>brew cask install firefoxi <br>brew cask install google-chrome <br>brew cask install atom <br>brew cask install dropbox <br>brew cask install filezilla <br>brew cask install dropbox

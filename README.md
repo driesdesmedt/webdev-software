@@ -8,7 +8,7 @@ Default setup for my webdev environment.
 ## 2. Install Cask (https://caskroom.github.io)
 brew tap caskroom/cask
 
-## 3. Programma's installeren (https://caskroom.github.io/search)
+### Programma's installeren (https://caskroom.github.io/search)
 
 - brew cask install iterm2
 - brew cask install firefox
@@ -17,13 +17,13 @@ brew tap caskroom/cask
 - brew cask install dropbox
 
 ### Bulk installer (https://lifehacker.com/how-to-make-your-own-bulk-app-installer-for-os-x-1586252163)
+Zie cask-bulk-installer.sh
 
-
-## 4. Install node.js 
+## 3. Install node.js
 https://nodejs.org
 
-## 5. TinyPNG installeren voor lokaal gebruik in CLI
+## 4. TinyPNG installeren voor lokaal gebruik in CLI
 https://github.com/websperts/tinypng-cli
 
-## 6. SASS isntalleren https://sass-lang.com/install
+## 5. SASS isntalleren https://sass-lang.com/install
 npm install -g sass
