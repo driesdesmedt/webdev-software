@@ -3,7 +3,10 @@ Default setup voor mijn webdev omgeving.
 
 ## Setup
 ### 1. Install brew (https://brew.sh)
+
+'''
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+'''
 
 #### Programma's installeren
 - brew install sass/sass/sass
@@ -21,6 +24,7 @@ brew tap caskroom/cask
 - brew cask install dropbox
 
 (Bulk install via: cask-bulk-installer.sh)
+
 Meer info: https://lifehacker.com/how-to-make-your-own-bulk-app-installer-for-os-x-1586252163
 
 ### 3. TinyPNG installeren voor lokaal gebruik in CLI
