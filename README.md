@@ -24,7 +24,6 @@ https://nodejs.org
 
 ## 5. TinyPNG installeren voor lokaal gebruik in CLI
 https://github.com/websperts/tinypng-cli
-API Key (Dries): qfO5y2qZzUzJofaRuxYcLOwXvSQIKNur
 
 ## 6. SASS isntalleren https://sass-lang.com/install
 npm install -g sass
